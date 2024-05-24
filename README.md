@@ -1,14 +1,16 @@
 # ✨Fabian Van Acoleyen✨
-- # I can code:
+- # I can code in:
   - Python
   - Javascript
   - Karl.Marx.Su
   - GDscript
-- # I can write:
+- # I can write in:
   - HTML
   - CSS
 
 ## I use VSCode as IDE NOT GOOGLE DOCS (very important)
+
+@BlukasBloesman
 
 
 
