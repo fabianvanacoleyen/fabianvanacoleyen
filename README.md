@@ -10,7 +10,7 @@
 
 ## I use VSCode as IDE NOT GOOGLE DOCS (very important)
 
-@BlukasBloesman
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A7Z7LRD)
 
 
 
