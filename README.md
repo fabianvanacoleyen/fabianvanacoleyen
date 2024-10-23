@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning android studio<br>
+🌱 I’m currently learning android studio with Jetpack Compose and Flutter<br>
 🌐 I create websites sometimes (html css js)<br>
 🐧 I'm somewhat familiar with Ubuntu<br>
 
