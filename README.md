@@ -1,7 +1,7 @@
 # 💫 About Me:
 🌱 I’m currently learning android studio with Jetpack Compose and Flutter<br>
 🌐 I create websites sometimes (html css js)<br>
-🐧 I'm somewhat familiar with Ubuntu<br>
+🐧 I'm somewhat familiar with Debian-based linux distros<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fabianvanacoleyen) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@fabianvanacoleyen) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/fabianvanacoleyen) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/fabianvanacoley) 
